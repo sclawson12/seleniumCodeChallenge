@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\Test Automation.exe
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\Test Automation.deps.json
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\Test Automation.runtimeconfig.json
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\Test Automation.dll
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\ref\Test Automation.dll
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\Test Automation.pdb
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\WebDriver.dll
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.AssemblyInfo.cs
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.csproj.CopyComplete
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.dll
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\ref\Test Automation.dll
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.pdb
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.genruntimeconfig.cache
+C:\Users\User\source\repos\Test Automation\Test Automation\obj\Debug\net6.0\Test Automation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\User\source\repos\Test Automation\Test Automation\bin\Debug\net6.0\CsvHelper.dll

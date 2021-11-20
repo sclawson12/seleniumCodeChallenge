@@ -1,0 +1,5 @@
+Error finding element.
+ProductId B085XQ3YKH - expected price = $129.99, Displayed price = $149.99, Price matches = False
+ProductId B00V7YAUW6 - expected price = $196.13, Displayed price = $196.13, Price matches = True
+ProductId B00MHLIGCY - expected price = $2.00, Displayed price = $31.99, Price matches = False
+ProductId B00MRZIFD0 - expected price = $13.49, Displayed price = $13.49, Price matches = True
